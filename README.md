@@ -1,4 +1,4 @@
-# Thursday-CLI-for-Gemini-Unofficial-Use-Your-Own-API-Key-
+# Thursday-CLI-for-Gemini
 Thursday is a vibrant, highly visual Terminal User Interface (TUI) and CLI built for Google Gemini models. Bring your terminal to life with rich color syntax, real-time streaming, and interactive chat—all powered by Python.
 
 > ⚠️ **Note:** This is an unofficial, community-driven project. It is not affiliated with, endorsed by, or sponsored by Google.
