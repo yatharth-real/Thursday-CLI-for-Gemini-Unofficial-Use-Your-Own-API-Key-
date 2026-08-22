@@ -15,15 +15,6 @@ Thursday is a vibrant, highly visual Terminal User Interface (TUI) and CLI built
 
 ---
 
-## 🚀 Quick Start
-
-### 1. Set Your API Key
-Thursday requires your own API key. Get a free or paid key from Google AI Studio and add it to your environment:
-
-### 2. Add your API key
-
----
-
 ## 🛑 Disclaimer
 
 This software is an independent development and utilizes Google's publicly available Gemini API. **Thursday CLI** is provided "as is" under the open-source license. The developers are not responsible for any API usage costs, rate limit adjustments, or data handling by Google AI Studio. 
