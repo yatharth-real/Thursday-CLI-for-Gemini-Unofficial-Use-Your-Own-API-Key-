@@ -1,0 +1,3 @@
+"""
+Thursday CLI package.
+"""
